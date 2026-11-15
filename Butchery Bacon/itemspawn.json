@@ -17,5 +17,67 @@
     "entries": [
       { "item": "bacon_raw", "prob": 30 }
     ]
+  },
+  
+  {
+    "id": "pizza_fridge",
+    "type": "item_group",
+    "items": [
+      [ "bacon_raw", 15 ]
+    ]
+  },
+  
+  {
+    "id": "fast_fridge",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "bacon_raw", "prob": 30 }
+    ]
+  },
+  
+  {
+    "id": "groce_meat",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "bacon_raw", "prob": 25 }
+    ]
+  },
+  
+  {
+    "id": "restaur_freezer",
+    "type": "item_group",
+    "items": [
+      [ "bacon_raw", 5 ]
+    ]
+  },
+  
+  {
+    "id": "diner_back",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "bacon_raw", "prob": 10 }
+    ]
+  },
+  
+  {
+    "type": "item_group",
+    "id": "butcher_raw_meat",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "bacon_raw", "prob": 8 }
+
+    ]
+  },
+  
+  {
+    "type": "item_group",
+    "id": "butcher_meat",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "bacon", "prob": 4 }
+    ]
   }
 ]

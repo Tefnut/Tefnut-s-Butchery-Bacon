@@ -6,7 +6,7 @@
     "authors": [ "Tefnut" ],
     "maintainers": [ "Tefnut" ],
     "description": "Adds raw bacon, and ability to butcher pigs for it. I hammered this mod out in like half an hour just to make it a thing.",
-    "version": "Version 1",
+    "version": "Version 2",
     "category": "items",
     "dependencies": [ "bn" ]
   }
