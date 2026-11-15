@@ -1,0 +1,25 @@
+[
+   {
+    "type": "COMESTIBLE",
+    "id": "bacon_raw",
+    "name": { "str": "raw bacon", "str_pl": "pieces of raw bacon" },
+    "weight": "85 g",
+    "color": "pink",
+    "comestible_type": "FOOD",
+    "symbol": "%",
+    "quench": -2,
+    "healthy": -1,
+    "calories": 398,
+    "description": "Raw, unprocessed bacon. Fatty, nutritious, but prone to spoil. Can be smoked into proper, preserved bacon.",
+	"spoils_in": "3 days",
+	"flags": [ "UNSAFE_CONSUME", "SMOKABLE" ],
+    "smoking_result": "bacon",
+    "price": "19 USD",
+    "price_postapoc": "5 USD",
+    "material": [ "flesh" ],
+    "volume": "250 ml",
+    "charges": 2,
+    "vitamins": [ [ "calcium", 1 ], [ "iron", 5 ], [ "vitB", 39 ], [ "meat_allergen", 1 ] ],
+    "fun": 5
+  }
+]

@@ -1,0 +1,21 @@
+[
+   {
+    "id": "barbecue",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "bacon_raw", "prob": 20 }
+      
+    ]
+  },
+  
+  {
+    "type": "item_group",
+    "id": "fridge_meat_random",
+    "//": "Includes meat substitutes.",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "bacon_raw", "prob": 30 }
+    ]
+  }
+]
