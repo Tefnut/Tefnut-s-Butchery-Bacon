@@ -3,6 +3,7 @@
     "type": "COMESTIBLE",
     "id": "bacon_raw",
     "name": { "str": "raw bacon", "str_pl": "pieces of raw bacon" },
+	"looks_like": "bacon",
     "weight": "85 g",
     "color": "pink",
     "comestible_type": "FOOD",
@@ -20,6 +21,6 @@
     "volume": "250 ml",
     "charges": 2,
     "vitamins": [ [ "calcium", 1 ], [ "iron", 5 ], [ "vitB", 39 ], [ "meat_allergen", 1 ] ],
-    "fun": 5
+    "fun": -5
   }
 ]
